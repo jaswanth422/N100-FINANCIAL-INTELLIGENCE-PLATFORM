@@ -1,0 +1,13 @@
+source_file,table_name,source_rows,loaded_rows,rejected_rows,rejection_reason
+companies.xlsx,companies,92,92,0,
+documents.xlsx,documents,1585,1457,128,company_id absent from companies.id
+analysis.xlsx,analysis,20,16,4,company_id absent from companies.id
+prosandcons.xlsx,pros_and_cons,16,14,2,company_id absent from companies.id
+profitandloss.xlsx,financial_statements,1276,1177,99,company_id absent from companies.id
+balancesheet.xlsx,financial_statements,1312,1227,85,company_id absent from companies.id
+cashflow.xlsx,financial_statements,1187,1091,96,company_id absent from companies.id
+financial_ratios.xlsx,financial_ratios,1184,1160,24,company_id absent from companies.id
+stock_prices.xlsx,stock_prices,5520,5520,0,
+market_cap.xlsx,market_cap,552,552,0,
+sectors.xlsx,sectors,92,92,0,
+peer_groups.xlsx,peer_groups,56,56,0,

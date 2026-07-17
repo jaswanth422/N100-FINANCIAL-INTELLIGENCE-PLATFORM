@@ -1,0 +1,35 @@
+company_id,company_name,year,roe_pct,debt_to_equity,composite_quality_score,review_note
+BEL,Bharat Electronics Ltd,2024,4379.12,0.86,91.43,Review: documented source anomaly
+HAL,Hindustan Aeronautics Ltd,2024,3669.08,0.6,94.01,Review: documented source anomaly
+INDIGO,Interglobe Aviation Ltd,2024,856.98,0.02,75.59,Review: documented source anomaly
+NESTLEIND,Nestle India Ltd,2024,98.57,0.09,99.07,Passes mechanical filter; analyst review required
+LT,Larsen & Toubro Ltd,2024,73.77,0.11,88.27,Passes mechanical filter; analyst review required
+BRITANNIA,Britannia Industries Ltd,2024,66.48,0.86,88.39,Passes mechanical filter; analyst review required
+TCS,Tata Consultancy Services Ltd,2024,45.42,0.09,99.11,Passes mechanical filter; analyst review required
+LICI,Life Insurance Corporation of India,2024,41.91,0.0,86.45,Passes mechanical filter; analyst review required
+COALINDIA,Coal India Ltd,2024,38.85,0.08,99.19,Passes mechanical filter; analyst review required
+ADANIPOWER,Adani Power Ltd,2024,37.23,0.67,93.26,Passes mechanical filter; analyst review required
+BPCL,Bharat Petroleum Corporation Ltd,2024,34.83,0.76,80.36,Passes mechanical filter; analyst review required
+ABB,Abbott India Ltd,2024,34.11,0.02,99.83,Passes mechanical filter; analyst review required
+TRENT,Trent Ltd,2024,31.56,0.39,91.98,Passes mechanical filter; analyst review required
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2024,31.54,0.01,97.95,Passes mechanical filter; analyst review required
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,2024,30.84,0.14,97.25,Passes mechanical filter; analyst review required
+INFY,Infosys Ltd,2024,29.02,0.1,99.03,Passes mechanical filter; analyst review required
+ITC,ITC Ltd ,2024,27.57,0.0,98.73,Passes mechanical filter; analyst review required
+BAJAJ-AUTO,Bajaj Auto Ltd,2024,24.88,0.17,93.44,Passes mechanical filter; analyst review required
+IOC,Indian Oil Corporation ,2024,23.8,0.9,73.02,Passes mechanical filter; analyst review required
+HCLTECH,HCL Technologies Ltd,2024,22.81,0.08,98.22,Passes mechanical filter; analyst review required
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2024,22.07,0.42,95.83,Passes mechanical filter; analyst review required
+LTIM,LTIMindtree Ltd,2024,21.76,0.11,96.11,Passes mechanical filter; analyst review required
+EICHERMOT,Eicher Motors Ltd,2024,21.08,0.02,99.76,Passes mechanical filter; analyst review required
+HINDUNILVR,Hindustan Unilever Ltd ,2024,20.25,0.03,99.67,Passes mechanical filter; analyst review required
+PIDILITIND,Pidilite Industries Ltd,2024,20.05,0.04,98.38,Passes mechanical filter; analyst review required
+HEROMOTOCO,Hero MotoCorp Ltd ,2024,19.68,0.03,92.58,Passes mechanical filter; analyst review required
+BOSCHLTD,Bosch Ltd,2024,19.55,0.0,99.37,Passes mechanical filter; analyst review required
+DRREDDY,Dr Reddys Laboratories Ltd,2024,18.14,0.16,96.56,Passes mechanical filter; analyst review required
+SIEMENS,Siemens Ltd,2024,17.7,0.02,90.63,Passes mechanical filter; analyst review required
+DABUR,Dabur India Ltd,2024,17.48,0.17,95.25,Passes mechanical filter; analyst review required
+ATGL,Adani Total Gas Ltd,2024,17.08,0.37,91.57,Passes mechanical filter; analyst review required
+HAVELLS,Havells India Ltd,2024,16.31,0.04,85.0,Passes mechanical filter; analyst review required
+ONGC,Oil & Natural Gas Corpn Ltd,2024,16.21,0.54,83.65,Passes mechanical filter; analyst review required
+MARUTI,Maruti Suzuki India Ltd,2024,15.13,0.0,87.79,Passes mechanical filter; analyst review required

@@ -1,0 +1,1121 @@
+dq_rule,severity,table,source_file,row_number,column,value,message
+DQ-06,CRITICAL,documents,documents.xlsx,1459,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1460,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1461,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1462,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1463,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1464,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1465,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1466,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1467,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1468,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1469,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1470,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1471,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1472,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1473,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1474,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1475,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1476,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1477,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1478,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1479,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1480,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1481,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1482,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1483,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1484,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1485,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1486,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1487,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1488,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1489,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1490,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1491,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1492,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1493,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1494,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1495,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1496,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1497,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1498,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1499,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1500,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1501,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1502,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1503,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1504,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1505,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1506,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1507,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1508,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1509,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1510,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1511,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1512,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1513,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1514,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1515,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1516,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1517,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1518,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1519,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1520,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1521,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1522,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1523,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1524,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1525,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1526,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1527,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1528,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1529,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1530,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1531,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1532,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1533,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1534,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1535,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1536,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1537,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1538,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1539,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1540,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1541,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1542,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1543,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1544,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1545,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1546,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1547,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1548,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1549,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1550,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1551,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1552,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1553,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1554,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1555,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1556,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1557,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1558,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1559,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1560,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1561,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1562,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1563,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1564,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1565,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1566,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1567,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1568,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1569,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1570,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1571,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1572,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1573,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1574,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1575,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1576,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1577,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1578,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1579,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1580,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1581,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1582,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1583,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1584,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1585,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,documents,documents.xlsx,1586,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,analysis,analysis.xlsx,10,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,analysis,analysis.xlsx,11,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,analysis,analysis.xlsx,12,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,analysis,analysis.xlsx,14,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,pros_and_cons,prosandcons.xlsx,13,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,pros_and_cons,prosandcons.xlsx,14,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1166,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1167,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1168,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1169,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1170,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1171,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1172,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1173,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1174,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1175,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1176,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1177,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1178,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1179,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1180,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1181,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1182,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1183,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1184,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1185,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1186,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1187,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1188,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1189,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1190,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1191,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1192,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1193,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1194,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1195,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1196,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1197,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1198,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1199,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1200,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1201,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1202,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1203,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1204,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1205,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1206,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1207,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1208,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1209,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1210,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1211,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1212,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1213,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1214,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1215,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1216,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1217,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1218,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1219,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1220,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1221,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1222,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1223,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1224,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1225,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1226,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1227,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1228,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1229,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1230,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1231,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1232,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1233,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1234,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1235,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1236,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1237,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1238,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1239,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1240,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1241,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1242,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1243,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1244,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1245,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1246,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1247,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1248,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1249,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1250,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1251,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1252,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1253,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1254,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1255,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1256,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1257,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1258,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1259,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1260,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1261,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1262,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1263,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,profitandloss.xlsx,1264,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1035,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1036,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1037,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1038,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1039,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1040,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1041,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1042,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1043,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1044,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1045,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1046,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1047,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1061,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1062,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1063,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1064,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1065,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1066,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1067,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1068,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1069,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1070,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1071,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1072,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1073,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1074,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1075,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1076,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1077,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1078,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1079,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1080,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1081,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1082,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1083,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1084,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1085,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1086,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1087,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1088,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1089,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1090,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1091,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1092,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1093,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1094,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1120,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1121,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1122,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1123,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1124,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1125,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1126,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1127,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1128,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1129,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1130,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1131,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1132,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1133,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1134,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1135,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1136,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1137,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1138,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1139,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1140,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1141,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1142,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1143,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1144,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1158,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1159,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1160,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1161,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1162,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1163,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1164,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1165,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1166,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1167,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1168,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1169,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,balancesheet.xlsx,1170,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,128,company_id,AGTL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,129,company_id,AGTL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,130,company_id,AGTL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,131,company_id,AGTL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,132,company_id,AGTL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,133,company_id,AGTL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,134,company_id,AGTL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1100,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1101,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1102,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1103,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1104,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1105,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1106,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1107,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1108,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1109,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1110,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1111,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1112,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1113,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1114,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1115,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1116,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1117,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1118,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1119,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1120,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1121,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1122,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1123,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1124,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1125,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1126,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1127,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1128,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1129,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1130,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1131,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1132,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1133,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1134,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1135,company_id,UNITDSPR,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1136,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1137,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1138,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1139,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1140,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1141,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1142,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1143,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1144,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1145,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1146,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1147,company_id,VBL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1148,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1149,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1150,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1151,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1152,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1153,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1154,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1155,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1156,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1157,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1158,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1159,company_id,VEDL,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1160,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1161,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1162,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1163,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1164,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1165,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1166,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1167,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1168,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1169,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1170,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1171,company_id,WIPRO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1172,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1173,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1174,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1175,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1176,company_id,ZOMATO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1177,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1178,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1179,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1180,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1181,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1182,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1183,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1184,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1185,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1186,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1187,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_statements,cashflow.xlsx,1188,company_id,ZYDUSLIFE,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1150,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1151,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1152,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1153,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1154,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1155,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1156,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1157,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1158,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1159,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1160,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1161,company_id,ULTRACEMCO,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1162,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1163,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1164,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1165,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1166,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1167,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1168,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1169,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1170,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1171,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1172,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-06,CRITICAL,financial_ratios,financial_ratios.xlsx,1173,company_id,UNIONBANK,Company FK does not exist in companies.id
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,148,opm_percentage,1353.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,149,opm_percentage,2307.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,150,opm_percentage,3097.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,151,opm_percentage,3466.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,152,opm_percentage,-5715.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,153,opm_percentage,-10277.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,154,opm_percentage,-5447.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,155,opm_percentage,-9859.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,156,opm_percentage,-2510.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,157,opm_percentage,3170.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,158,opm_percentage,13857.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,159,opm_percentage,11952.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,160,opm_percentage,9061.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,187,opm_percentage,1367.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,188,opm_percentage,1986.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,189,opm_percentage,2867.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,190,opm_percentage,3935.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,191,opm_percentage,6310.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,192,opm_percentage,7608.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,193,opm_percentage,6314.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,194,opm_percentage,9906.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,195,opm_percentage,16018.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,196,opm_percentage,19987.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,197,opm_percentage,21417.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,198,opm_percentage,1006.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,199,opm_percentage,809.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,200,opm_percentage,902.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,201,opm_percentage,-11700.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,202,opm_percentage,-4372.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,203,opm_percentage,-9197.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,204,opm_percentage,-5414.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,205,opm_percentage,-11728.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,206,opm_percentage,-6957.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,207,opm_percentage,-2948.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,208,opm_percentage,6329.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,209,opm_percentage,4102.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,210,opm_percentage,3526.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,289,opm_percentage,655.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,290,opm_percentage,-672.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,291,opm_percentage,-621.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,292,opm_percentage,-8008.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,293,opm_percentage,-5775.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,294,opm_percentage,-13350.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,295,opm_percentage,-11590.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,296,opm_percentage,-12867.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,297,opm_percentage,-18367.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,298,opm_percentage,-13657.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,299,opm_percentage,-9877.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,300,opm_percentage,-7745.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,301,opm_percentage,-8985.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,302,opm_percentage,472.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,303,opm_percentage,578.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,304,opm_percentage,696.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,305,opm_percentage,899.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,306,opm_percentage,1143.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,307,opm_percentage,1451.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,308,opm_percentage,1888.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,309,opm_percentage,1699.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,310,opm_percentage,2094.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,311,opm_percentage,2924.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,312,opm_percentage,3515.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,313,opm_percentage,4548.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,314,opm_percentage,5175.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,315,opm_percentage,2214.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,316,opm_percentage,2147.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,317,opm_percentage,2163.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,318,opm_percentage,2480.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,319,opm_percentage,2496.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,320,opm_percentage,2826.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,321,opm_percentage,3097.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,322,opm_percentage,3206.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,323,opm_percentage,4252.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,324,opm_percentage,4553.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,325,opm_percentage,5027.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,326,opm_percentage,6291.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,327,opm_percentage,6906.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,328,opm_percentage,18087.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,329,opm_percentage,17766.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,330,opm_percentage,17343.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,331,opm_percentage,18714.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,332,opm_percentage,12448.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,333,opm_percentage,9288.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,334,opm_percentage,25007.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,335,opm_percentage,21581.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,336,opm_percentage,18628.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,337,opm_percentage,24721.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,338,opm_percentage,44232.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,339,opm_percentage,47971.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,340,opm_percentage,46610.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,497,opm_percentage,3534.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,498,opm_percentage,5602.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,499,opm_percentage,7214.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,500,opm_percentage,9037.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,501,opm_percentage,11374.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,502,opm_percentage,13374.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,503,opm_percentage,16592.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,504,opm_percentage,14593.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,505,opm_percentage,16848.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,506,opm_percentage,20795.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,507,opm_percentage,29932.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,508,opm_percentage,-44685.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,509,opm_percentage,-57587.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,510,opm_percentage,525.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,511,opm_percentage,605.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,512,opm_percentage,874.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,513,opm_percentage,953.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,514,opm_percentage,972.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,515,opm_percentage,1074.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,516,opm_percentage,1215.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,517,opm_percentage,1141.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,518,opm_percentage,1235.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,519,opm_percentage,778.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,521,opm_percentage,531.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,522,opm_percentage,725.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,523,opm_percentage,3553.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,524,opm_percentage,3520.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,525,opm_percentage,4424.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,526,opm_percentage,4585.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,527,opm_percentage,5334.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,528,opm_percentage,5025.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,529,opm_percentage,4070.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,530,opm_percentage,4058.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,531,opm_percentage,3256.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,532,opm_percentage,4099.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,533,opm_percentage,5235.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,534,opm_percentage,5561.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,535,opm_percentage,7699.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,536,opm_percentage,8024.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,537,opm_percentage,8844.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,538,opm_percentage,7778.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,539,opm_percentage,12317.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,540,opm_percentage,13695.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,541,opm_percentage,15511.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,542,opm_percentage,14306.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,543,opm_percentage,17559.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,544,opm_percentage,28347.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,545,opm_percentage,22666.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,546,opm_percentage,23872.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,547,opm_percentage,27931.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,548,opm_percentage,4220.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,549,opm_percentage,4759.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,550,opm_percentage,5412.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,551,opm_percentage,5910.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,552,opm_percentage,6328.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,553,opm_percentage,7499.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,554,opm_percentage,8880.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,555,opm_percentage,9861.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,556,opm_percentage,11626.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,557,opm_percentage,12857.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,558,opm_percentage,14147.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,559,opm_percentage,14659.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,560,opm_percentage,14759.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,561,opm_percentage,-15085.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,562,opm_percentage,-13084.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,563,opm_percentage,-16120.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,564,opm_percentage,-26955.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,565,opm_percentage,-37737.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,566,opm_percentage,-44906.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,567,opm_percentage,-50971.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,568,opm_percentage,-45190.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,569,opm_percentage,-44805.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,570,opm_percentage,-26558.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,571,opm_percentage,-17341.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,572,opm_percentage,-14152.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,573,opm_percentage,-31575.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,574,opm_percentage,-178.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,575,opm_percentage,-225.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,576,opm_percentage,-221.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,577,opm_percentage,764.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,578,opm_percentage,919.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,579,opm_percentage,-262.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,580,opm_percentage,1669.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,581,opm_percentage,1772.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,582,opm_percentage,2072.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,583,opm_percentage,1016.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,584,opm_percentage,1264.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,585,opm_percentage,2577.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,586,opm_percentage,3363.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,587,opm_percentage,745.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,588,opm_percentage,1504.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,589,opm_percentage,1655.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,590,opm_percentage,1842.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,591,opm_percentage,1806.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,592,opm_percentage,1771.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,593,opm_percentage,541.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,594,opm_percentage,-319.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,595,opm_percentage,-390.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,596,opm_percentage,-2163.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,597,opm_percentage,-1757.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,598,opm_percentage,-1829.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,599,opm_percentage,321.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,600,opm_percentage,286.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,601,opm_percentage,335.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,602,opm_percentage,288.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,603,opm_percentage,329.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,604,opm_percentage,379.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,605,opm_percentage,942.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,606,opm_percentage,-437.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,607,opm_percentage,-553.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,608,opm_percentage,-2469.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,609,opm_percentage,-839.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,610,opm_percentage,2067.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,611,opm_percentage,2978.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,612,opm_percentage,1323.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,718,opm_percentage,-1789.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,719,opm_percentage,-1379.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,720,opm_percentage,-3366.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,721,opm_percentage,-2263.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,722,opm_percentage,-3965.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,723,opm_percentage,-4141.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,724,opm_percentage,-5114.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,725,opm_percentage,-5005.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,726,opm_percentage,-9958.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,727,opm_percentage,-8512.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,728,opm_percentage,-5746.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,729,opm_percentage,-13382.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,730,opm_percentage,-14146.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,944,opm_percentage,101.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1245,opm_percentage,-171.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1265,opm_percentage,855.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1266,opm_percentage,433.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1267,opm_percentage,1904.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1268,opm_percentage,3164.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1269,opm_percentage,2219.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1270,opm_percentage,3030.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1271,opm_percentage,-151.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1272,opm_percentage,4069.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1274,opm_percentage,558.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1275,opm_percentage,6521.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1276,opm_percentage,16331.0,OPM is outside -100% to 100%
+DQ-11,WARNING,financial_statements,profitandloss.xlsx,1277,opm_percentage,15908.0,OPM is outside -100% to 100%
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,31,close_price,3300.45,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,76,close_price,5489.61,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,84,close_price,4667.34,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,103,close_price,4049.47,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,130,close_price,5143.91,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,145,close_price,6059.65,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,178,close_price,9407.43,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,195,close_price,4112.23,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,213,close_price,5069.87,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,254,close_price,1152.75,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,343,close_price,1592.27,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,396,close_price,436.66,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,427,close_price,3264.32,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,445,close_price,4845.4,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,467,close_price,3408.47,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,500,close_price,2029.27,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,503,close_price,2394.97,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,568,close_price,2201.76,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,569,close_price,2091.15,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,710,close_price,9789.8,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,727,close_price,4491.54,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,734,close_price,4381.31,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,775,close_price,6032.3,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,854,close_price,1386.09,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,895,close_price,2106.61,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,896,close_price,2004.4,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,973,close_price,1934.32,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1049,close_price,3738.84,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1062,close_price,3990.74,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1117,close_price,2227.53,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1270,close_price,809.12,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1294,close_price,392.48,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1324,close_price,1396.44,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1362,close_price,2268.22,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1417,close_price,1436.76,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1440,close_price,1972.13,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1448,close_price,2342.38,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1589,close_price,1536.96,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1625,close_price,3317.47,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1626,close_price,3589.89,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1708,close_price,2211.83,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1739,close_price,4194.7,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1885,close_price,1021.33,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1896,close_price,1121.46,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,1940,close_price,333.53,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2068,close_price,6726.04,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2220,close_price,2370.13,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2270,close_price,1052.89,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2275,close_price,845.64,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2311,close_price,4391.71,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2325,close_price,4499.81,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2342,close_price,2361.06,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2419,close_price,903.75,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2434,close_price,727.47,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2505,close_price,2765.51,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2551,close_price,434.12,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2572,close_price,313.71,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2577,close_price,402.48,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2691,close_price,1859.89,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2709,close_price,3691.19,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2787,close_price,2522.2,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2848,close_price,4340.65,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2902,close_price,4231.41,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2967,close_price,746.05,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,2973,close_price,1097.64,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3030,close_price,6543.04,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3038,close_price,7420.09,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3055,close_price,9745.82,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3067,close_price,4310.89,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3076,close_price,4175.38,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3115,close_price,5219.03,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3183,close_price,5186.99,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3192,close_price,6354.45,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3222,close_price,6928.05,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3267,close_price,5648.39,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3289,close_price,8599.67,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3290,close_price,8364.35,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3301,close_price,9945.52,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3312,close_price,5148.26,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3328,close_price,8570.33,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3341,close_price,9172.55,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3343,close_price,8452.59,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3346,close_price,6424.02,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3354,close_price,7199.04,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3464,close_price,1436.48,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3488,close_price,286.39,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3640,close_price,2516.0,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3659,close_price,2966.18,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3796,close_price,1805.24,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3846,close_price,1541.64,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3881,close_price,2501.67,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3951,close_price,3570.82,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,3998,close_price,494.48,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4068,close_price,8764.38,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4171,close_price,7609.18,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4235,close_price,7696.24,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4247,close_price,6667.23,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4298,close_price,749.18,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4351,close_price,136.49,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4440,close_price,6547.57,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4446,close_price,4094.41,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4456,close_price,5687.84,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4535,close_price,2555.62,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4556,close_price,2261.27,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4640,close_price,664.67,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4695,close_price,1243.17,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4728,close_price,2601.72,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4738,close_price,2562.33,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4739,close_price,2617.1,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4767,close_price,1148.76,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4772,close_price,1501.14,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4794,close_price,1136.84,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,4820,close_price,4140.4,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,5124,close_price,2314.96,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,5216,close_price,4966.5,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,5342,close_price,2375.4,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,5376,close_price,1755.51,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,5386,close_price,1915.22,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,5400,close_price,2193.28,OHLC prices are inconsistent or non-positive
+DQ-14,WARNING,stock_prices,stock_prices.xlsx,5448,close_price,1466.02,OHLC prices are inconsistent or non-positive
+DQ-16,WARNING,documents,documents.xlsx,27,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,28,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,29,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,30,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,31,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,32,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,33,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,57,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,58,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,59,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,60,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,61,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,62,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,63,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,64,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,65,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,71,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,72,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,73,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,75,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,76,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,77,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,78,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,80,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,81,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,91,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,92,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,93,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,95,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,96,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,97,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,108,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,109,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,110,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,112,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,113,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,119,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,123,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,128,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,129,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,141,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,142,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,144,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,145,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,152,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,153,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,154,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,155,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,156,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,157,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,158,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,159,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,160,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,161,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,176,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,177,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,188,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,192,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,193,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,208,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,209,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,224,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,225,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,240,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,241,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,352,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,353,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,368,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,369,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,379,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,384,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,385,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,400,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,401,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,416,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,432,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,433,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,448,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,449,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,458,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,459,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,460,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,461,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,462,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,463,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,464,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,465,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,479,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,480,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,481,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,496,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,497,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,512,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,513,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,528,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,529,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,544,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,545,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,562,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,575,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,576,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,590,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,591,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,592,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,604,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,606,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,607,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,608,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,621,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,622,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,623,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,624,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,625,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,641,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,642,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,657,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,658,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,673,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,674,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,690,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,706,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,720,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,721,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,722,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,732,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,733,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,734,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,735,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,736,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,737,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,738,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,753,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,754,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,769,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,770,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,771,annual_report,bseindia.com/xml-data/corpfiling/AttachHis/24a0940c-fa5a-4e36-a404-9dab3637ea0c.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,772,annual_report,bseindia.com/xml-data/corpfiling/AttachHis//ae413f27-7b30-4cdb-8f1b-8d82e5914e54.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,785,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,786,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,792,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,793,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,794,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,795,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,796,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,797,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,798,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,799,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,800,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,801,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,802,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,807,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,808,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,809,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,810,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,811,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,812,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,813,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,814,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,815,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,816,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,817,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,818,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,852,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,853,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,854,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,855,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,856,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,857,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,858,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,859,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,860,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,861,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,862,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,863,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,864,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,865,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,866,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,880,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,881,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,882,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,897,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,898,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,900,annual_report,bseindia.com/xml-data/corpfiling/AttachHis//b9e0c871-3353-4ef4-855e-069bcfd848e1.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,901,annual_report,bseindia.com/bseplus/AnnualReport/500247/73932500247.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,902,annual_report,bseindia.com/bseplus/AnnualReport/500247/69160500247.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,906,annual_report,bseindia.com/bseplus/AnnualReport/500247/5002470317.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,907,annual_report,5002470316.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,908,annual_report,5002470315.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,910,annual_report,untitled,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,911,annual_report,bseindia.com/bseplus/AnnualReport/500247/5002470312.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,912,annual_report,5002470311.pdf,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,913,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,914,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,921,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,922,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,923,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,924,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,925,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,926,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,927,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,928,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,929,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,930,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,935,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,936,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,937,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,938,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,939,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,940,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,941,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,942,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,943,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,944,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,945,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,946,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,961,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,962,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,971,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,972,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,973,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,974,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,975,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,976,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,977,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,978,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,993,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,994,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1009,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1010,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1025,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1026,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1041,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1042,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1073,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1074,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1089,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1090,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1104,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1105,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1106,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1121,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1122,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1136,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1137,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1138,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1153,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1154,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1169,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1170,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1184,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1185,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1186,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1200,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1201,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1202,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1210,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1211,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1212,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1213,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1214,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1215,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1216,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1217,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1218,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1234,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1248,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1249,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1250,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1264,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1265,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1266,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1281,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1282,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1313,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1314,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1329,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1330,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1345,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1346,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1361,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1362,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1377,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1378,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1391,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1392,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1393,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1394,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1408,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1409,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1410,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1425,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1426,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1441,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1442,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1457,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1458,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1472,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1473,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1474,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1489,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1490,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1504,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1505,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1506,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1507,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1516,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1517,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1518,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1519,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1520,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1521,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1522,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1537,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1538,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1553,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1554,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1558,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1559,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1560,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1561,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1562,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1563,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1564,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1565,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1566,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1567,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1568,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1569,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1570,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1585,annual_report,Null,URL is malformed
+DQ-16,WARNING,documents,documents.xlsx,1586,annual_report,Null,URL is malformed

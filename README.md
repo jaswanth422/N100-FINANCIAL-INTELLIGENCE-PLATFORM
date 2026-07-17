@@ -13,4 +13,12 @@ Financial data ingestion, normalization, validation, and analytics platform for 
 - Day 07: exploratory SQL, tests, database demo, and retrospective — complete
 
 Run `make sprint` to rebuild and verify all Sprint 01 deliverables.
-# N100-FINANCIAL-INTELLIGENCE-PLATFORM
+
+## Sprint 02 status
+
+- Profitability, leverage, efficiency, CAGR, and cash-flow KPI engines — complete
+- Financial ratios populated for 92 companies and 1,192 rows — complete
+- Capital-allocation classifications and categorized ratio edge-case log — complete
+- Twenty-test KPI acceptance suite — complete
+
+See `docs/SPRINT_02_RETROSPECTIVE.md` for formula decisions, validation results, and known source-data edge cases.
