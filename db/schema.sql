@@ -107,6 +107,8 @@ CREATE TABLE IF NOT EXISTS financial_ratios (
     eps_cagr_10yr REAL,
     eps_cagr_10yr_flag TEXT,
     free_cash_flow_cr REAL,
+    fcf_cagr_5yr REAL,
+    fcf_cagr_5yr_flag TEXT,
     cfo_quality_score REAL,
     cfo_quality_label TEXT,
     capex_cr REAL,
@@ -119,7 +121,8 @@ CREATE TABLE IF NOT EXISTS financial_ratios (
     dividend_payout_ratio_pct REAL,
     total_debt_cr REAL,
     cash_from_operations_cr REAL,
-    composite_quality_score REAL
+    composite_quality_score REAL,
+    composite_score_coverage_pct REAL
 );
 
 CREATE TABLE IF NOT EXISTS stock_prices (
@@ -162,8 +165,20 @@ CREATE TABLE IF NOT EXISTS peer_groups (
     is_benchmark INTEGER NOT NULL DEFAULT 0 CHECK (is_benchmark IN (0, 1))
 );
 
+CREATE TABLE IF NOT EXISTS peer_percentiles (
+    company_id TEXT NOT NULL REFERENCES companies(id),
+    peer_group_name TEXT NOT NULL,
+    metric TEXT NOT NULL,
+    value REAL,
+    percentile_rank REAL,
+    year INTEGER NOT NULL,
+    PRIMARY KEY (company_id, peer_group_name, metric, year)
+);
+
 CREATE INDEX IF NOT EXISTS idx_documents_company_year ON documents(company_id, year);
 CREATE INDEX IF NOT EXISTS idx_statements_company_year ON financial_statements(company_id, year);
 CREATE INDEX IF NOT EXISTS idx_ratios_company_year ON financial_ratios(company_id, year);
 CREATE INDEX IF NOT EXISTS idx_prices_company_date ON stock_prices(company_id, date);
 CREATE INDEX IF NOT EXISTS idx_market_cap_company_year ON market_cap(company_id, year);
+CREATE INDEX IF NOT EXISTS idx_peer_percentiles_company_year
+    ON peer_percentiles(company_id, year);

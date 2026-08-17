@@ -10,7 +10,9 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from .cagr import calculate_growth_cagrs
+import pandas as pd
+
+from .cagr import calculate_cagr, calculate_growth_cagrs
 from .cashflow import (
     capex_intensity,
     cfo_quality_score,
@@ -20,11 +22,10 @@ from .cashflow import (
     fcf_conversion_rate,
     free_cash_flow,
 )
+from .composite import compute_composite_scores
 from .ratios import (
-    asset_turnover,
     calculate_leverage_efficiency_ratios,
     calculate_profitability_ratios,
-    net_profit_margin,
 )
 
 
@@ -88,8 +89,15 @@ def composite_quality_score(
 
 def _ensure_schema(connection: sqlite3.Connection) -> None:
     columns = {row[1] for row in connection.execute("PRAGMA table_info(financial_ratios)")}
-    if "composite_quality_score" not in columns:
-        connection.execute("ALTER TABLE financial_ratios ADD COLUMN composite_quality_score REAL")
+    additions = {
+        "fcf_cagr_5yr": "REAL",
+        "fcf_cagr_5yr_flag": "TEXT",
+        "composite_quality_score": "REAL",
+        "composite_score_coverage_pct": "REAL",
+    }
+    for column, sql_type in additions.items():
+        if column not in columns:
+            connection.execute(f'ALTER TABLE financial_ratios ADD COLUMN "{column}" {sql_type}')
 
 
 def _latest_statements(
@@ -146,10 +154,15 @@ def populate_financial_ratios(connection: sqlite3.Connection) -> PopulationStats
     pat_history = _history(pnl_rows, "net_profit")
     eps_history = _history(pnl_rows, "eps")
     cfo_history = _history(cash_rows, "operating_activity")
+    fcf_history: dict[str, dict[int, float | None]] = defaultdict(dict)
+    for (company_id, year), row in cash_rows.items():
+        fcf_history[company_id][year] = free_cash_flow(
+            _number(row.get("operating_activity")),
+            _number(row.get("investing_activity")),
+        )
 
     companies = {
-        row["id"]: dict(row)
-        for row in connection.execute("SELECT id, face_value FROM companies")
+        row["id"]: dict(row) for row in connection.execute("SELECT id, face_value FROM companies")
     }
     sectors = {
         row["company_id"]: row["broad_sector"]
@@ -188,6 +201,8 @@ def populate_financial_ratios(connection: sqlite3.Connection) -> PopulationStats
         "eps_cagr_10yr",
         "eps_cagr_10yr_flag",
         "free_cash_flow_cr",
+        "fcf_cagr_5yr",
+        "fcf_cagr_5yr_flag",
         "cfo_quality_score",
         "cfo_quality_label",
         "capex_cr",
@@ -201,6 +216,7 @@ def populate_financial_ratios(connection: sqlite3.Connection) -> PopulationStats
         "total_debt_cr",
         "cash_from_operations_cr",
         "composite_quality_score",
+        "composite_score_coverage_pct",
     ]
     assignments = ", ".join(f'"{column}" = ?' for column in update_columns)
     update_sql = f"UPDATE financial_ratios SET {assignments} WHERE id = ?"
@@ -259,6 +275,11 @@ def populate_financial_ratios(connection: sqlite3.Connection) -> PopulationStats
         cfi = _number(cash.get("investing_activity"))
         cff = _number(cash.get("financing_activity"))
         fcf = free_cash_flow(cfo, cfi)
+        fcf_growth = calculate_cagr(
+            fcf_history.get(company_id, {}).get(year - 5),
+            fcf,
+            5,
+        )
         cfo_values = [
             cfo_history.get(company_id, {}).get(item) for item in range(year - 4, year + 1)
         ]
@@ -272,15 +293,6 @@ def populate_financial_ratios(connection: sqlite3.Connection) -> PopulationStats
         if cfo is not None and pat not in (None, 0):
             annual_cfo_pat = cfo / pat
         allocation = classify_capital_allocation(cfo, cfi, cff, cfo_pat_ratio=annual_cfo_pat)
-        margin = net_profit_margin(pat, _number(pnl.get("sales")))
-        composite = composite_quality_score(
-            roe_pct=profitability.return_on_equity_pct,
-            net_margin_pct=margin,
-            debt_to_equity_ratio=leverage.debt_to_equity,
-            interest_coverage_ratio=leverage.interest_coverage,
-            cfo_pat_score=cfo_score,
-        )
-
         values = {
             "net_profit_margin_pct": profitability.net_profit_margin_pct,
             "operating_profit_margin_pct": profitability.operating_profit_margin_pct,
@@ -313,6 +325,8 @@ def populate_financial_ratios(connection: sqlite3.Connection) -> PopulationStats
             "eps_cagr_10yr": growth.eps_cagr_10yr,
             "eps_cagr_10yr_flag": _flag(growth.eps_cagr_10yr_flag),
             "free_cash_flow_cr": fcf,
+            "fcf_cagr_5yr": fcf_growth.value,
+            "fcf_cagr_5yr_flag": _flag(fcf_growth.flag),
             "cfo_quality_score": cfo_score,
             "cfo_quality_label": classify_cfo_quality(cfo_score),
             "capex_cr": abs(cfi) if cfi is not None else None,
@@ -329,12 +343,67 @@ def populate_financial_ratios(connection: sqlite3.Connection) -> PopulationStats
             "dividend_payout_ratio_pct": _number(pnl.get("dividend_payout")),
             "total_debt_cr": _number(balance.get("borrowings")),
             "cash_from_operations_cr": cfo,
-            "composite_quality_score": composite,
+            # Sector-relative scores are calculated in one vectorised pass after
+            # all company-year KPI rows have been refreshed.
+            "composite_quality_score": None,
+            "composite_score_coverage_pct": None,
         }
         connection.execute(
             update_sql,
             [values[column] for column in update_columns] + [ratio_row["id"]],
         )
+
+    score_inputs = pd.read_sql_query(
+        """
+        WITH latest AS (
+            SELECT r.*,
+                   ROW_NUMBER() OVER (
+                       PARTITION BY company_id, year ORDER BY id DESC
+                   ) AS company_year_rank
+            FROM financial_ratios r
+            WHERE r.year IS NOT NULL
+        )
+        SELECT r.company_id,
+               r.year,
+               COALESCE(s.broad_sector, 'Unclassified') AS broad_sector,
+               r.return_on_equity_pct,
+               r.return_on_capital_employed_pct,
+               r.net_profit_margin_pct,
+               r.fcf_cagr_5yr,
+               r.cfo_quality_score,
+               r.free_cash_flow_cr,
+               r.revenue_cagr_5yr,
+               r.pat_cagr_5yr,
+               r.debt_to_equity,
+               r.interest_coverage
+        FROM latest r
+        LEFT JOIN sectors s ON s.company_id = r.company_id
+        WHERE r.company_year_rank = 1
+        """,
+        connection,
+    )
+    score_inputs["score_peer_set"] = (
+        score_inputs["year"].astype("Int64").astype("string")
+        + "|"
+        + score_inputs["broad_sector"].astype("string")
+    )
+    scored = compute_composite_scores(score_inputs, sector_column="score_peer_set")
+    connection.executemany(
+        """
+        UPDATE financial_ratios
+        SET composite_quality_score = ?, composite_score_coverage_pct = ?
+        WHERE company_id = ? AND year = ?
+        """,
+        [
+            (
+                _number(row.composite_quality_score),
+                _number(row.composite_score_coverage_pct),
+                str(row.company_id),
+                int(row.year),
+            )
+            for row in scored.itertuples(index=False)
+        ],
+    )
 
     final = connection.execute(
         "SELECT COUNT(*), COUNT(DISTINCT company_id) FROM financial_ratios"

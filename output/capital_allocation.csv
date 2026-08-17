@@ -66,13 +66,6 @@ ADANIPOWER,2021,+,-,-,Shareholder Returns
 ADANIPOWER,2022,+,+,-,Liquidating Assets
 ADANIPOWER,2023,+,+,-,Liquidating Assets
 ADANIPOWER,2024,+,+,-,Liquidating Assets
-AGTL,2018,+,-,+,Mixed
-AGTL,2019,+,+,-,Liquidating Assets
-AGTL,2020,+,-,-,Reinvestor
-AGTL,2021,+,-,+,Mixed
-AGTL,2022,+,-,+,Mixed
-AGTL,2023,+,-,+,Mixed
-AGTL,2024,+,-,-,Reinvestor
 AMBUJACEM,2012,+,-,-,Shareholder Returns
 AMBUJACEM,2013,+,-,-,Reinvestor
 AMBUJACEM,2014,+,-,-,Shareholder Returns
@@ -1060,92 +1053,3 @@ TVSMOTOR,2021,+,-,+,Mixed
 TVSMOTOR,2022,-,-,+,Growth Funded by Debt
 TVSMOTOR,2023,-,-,+,Growth Funded by Debt
 TVSMOTOR,2024,-,-,+,Growth Funded by Debt
-ULTRACEMCO,2013,+,-,+,Mixed
-ULTRACEMCO,2014,+,-,-,Shareholder Returns
-ULTRACEMCO,2015,+,-,-,Shareholder Returns
-ULTRACEMCO,2016,+,-,-,Shareholder Returns
-ULTRACEMCO,2017,+,-,-,Shareholder Returns
-ULTRACEMCO,2018,+,+,-,Liquidating Assets
-ULTRACEMCO,2019,+,+,-,Liquidating Assets
-ULTRACEMCO,2020,+,-,-,Shareholder Returns
-ULTRACEMCO,2021,+,-,-,Shareholder Returns
-ULTRACEMCO,2022,+,+,-,Liquidating Assets
-ULTRACEMCO,2023,+,-,-,Shareholder Returns
-ULTRACEMCO,2024,+,-,-,Shareholder Returns
-UNIONBANK,2013,-,-,+,Growth Funded by Debt
-UNIONBANK,2014,+,-,+,Mixed
-UNIONBANK,2015,-,-,+,Growth Funded by Debt
-UNIONBANK,2016,+,-,-,Reinvestor
-UNIONBANK,2017,-,-,+,Growth Funded by Debt
-UNIONBANK,2018,+,-,+,Mixed
-UNIONBANK,2019,-,-,+,Growth Funded by Debt
-UNIONBANK,2020,-,-,+,Growth Funded by Debt
-UNIONBANK,2021,+,-,-,Shareholder Returns
-UNIONBANK,2022,+,-,-,Shareholder Returns
-UNIONBANK,2023,+,-,-,Reinvestor
-UNIONBANK,2024,+,-,-,Shareholder Returns
-UNITDSPR,2013,+,-,-,Reinvestor
-UNITDSPR,2014,-,-,+,Growth Funded by Debt
-UNITDSPR,2015,-,+,-,Mixed
-UNITDSPR,2016,+,+,-,Liquidating Assets
-UNITDSPR,2017,+,-,-,Shareholder Returns
-UNITDSPR,2018,+,+,-,Liquidating Assets
-UNITDSPR,2019,+,-,-,Shareholder Returns
-UNITDSPR,2020,+,-,-,Shareholder Returns
-UNITDSPR,2021,+,-,-,Shareholder Returns
-UNITDSPR,2022,+,-,-,Shareholder Returns
-UNITDSPR,2023,+,-,-,Reinvestor
-UNITDSPR,2024,+,+,-,Liquidating Assets
-VBL,2012,+,-,+,Mixed
-VBL,2013,+,-,+,Mixed
-VBL,2014,+,-,+,Mixed
-VBL,2015,+,-,-,Shareholder Returns
-VBL,2016,+,-,+,Mixed
-VBL,2017,+,-,+,Mixed
-VBL,2018,+,-,-,Shareholder Returns
-VBL,2019,+,-,+,Mixed
-VBL,2020,+,-,-,Shareholder Returns
-VBL,2021,+,-,-,Shareholder Returns
-VBL,2022,+,-,-,Shareholder Returns
-VBL,2023,+,-,+,Mixed
-VEDL,2013,+,-,+,Mixed
-VEDL,2014,+,-,-,Shareholder Returns
-VEDL,2015,+,-,-,Reinvestor
-VEDL,2016,+,-,-,Reinvestor
-VEDL,2017,+,+,-,Liquidating Assets
-VEDL,2018,+,+,-,Liquidating Assets
-VEDL,2019,+,-,-,Shareholder Returns
-VEDL,2020,+,-,-,Reinvestor
-VEDL,2021,+,-,-,Shareholder Returns
-VEDL,2022,+,-,-,Shareholder Returns
-VEDL,2023,+,-,-,Shareholder Returns
-VEDL,2024,+,-,-,Shareholder Returns
-WIPRO,2013,+,-,-,Shareholder Returns
-WIPRO,2014,+,-,-,Reinvestor
-WIPRO,2015,+,-,-,Reinvestor
-WIPRO,2016,+,-,-,Reinvestor
-WIPRO,2017,+,-,-,Shareholder Returns
-WIPRO,2018,+,+,-,Liquidating Assets
-WIPRO,2019,+,+,-,Liquidating Assets
-WIPRO,2020,+,+,-,Liquidating Assets
-WIPRO,2021,+,+,-,Liquidating Assets
-WIPRO,2022,+,-,+,Mixed
-WIPRO,2023,+,-,-,Shareholder Returns
-WIPRO,2024,+,+,-,Liquidating Assets
-ZOMATO,2020,-,+,+,Distress Signal
-ZOMATO,2021,-,-,+,Growth Funded by Debt
-ZOMATO,2022,-,-,+,Growth Funded by Debt
-ZOMATO,2023,-,+,-,Mixed
-ZOMATO,2024,+,-,-,Shareholder Returns
-ZYDUSLIFE,2013,+,-,+,Mixed
-ZYDUSLIFE,2014,+,-,-,Shareholder Returns
-ZYDUSLIFE,2015,+,-,-,Reinvestor
-ZYDUSLIFE,2016,+,-,-,Reinvestor
-ZYDUSLIFE,2017,+,-,+,Mixed
-ZYDUSLIFE,2018,+,-,+,Mixed
-ZYDUSLIFE,2019,+,-,+,Mixed
-ZYDUSLIFE,2020,+,-,-,Shareholder Returns
-ZYDUSLIFE,2021,+,-,-,Shareholder Returns
-ZYDUSLIFE,2022,+,-,-,Reinvestor
-ZYDUSLIFE,2023,+,+,-,Liquidating Assets
-ZYDUSLIFE,2024,+,-,-,Reinvestor

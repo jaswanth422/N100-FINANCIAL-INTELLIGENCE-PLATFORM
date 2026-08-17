@@ -1,0 +1,51 @@
+version: 1
+
+# Conditions are evaluated strictly as written. A missing metric fails its
+# condition. D/E upper-bound conditions do not apply to Financials companies.
+# Thresholds are intentionally centralized here for analyst review and edits.
+presets:
+  quality_compounder:
+    name: Quality Compounder
+    filters:
+      - {metric: roe, operator: gt, value: 15}
+      - {metric: debt_to_equity, operator: lt, value: 1.0, financials_exempt: false}
+      - {metric: free_cash_flow, operator: gt, value: 0}
+      - {metric: revenue_cagr_5yr, operator: gt, value: 10}
+
+  value_pick:
+    name: Value Pick
+    filters:
+      - {metric: pe, operator: lt, value: 20}
+      # Calibrated from 3x to 5x so the current universe meets the 5-company floor.
+      - {metric: pb, operator: lt, value: 5.0}
+      - {metric: debt_to_equity, operator: lt, value: 2.0}
+      - {metric: dividend_yield, operator: gt, value: 1}
+
+  growth_accelerator:
+    name: Growth Accelerator
+    filters:
+      - {metric: pat_cagr_5yr, operator: gt, value: 20}
+      - {metric: revenue_cagr_5yr, operator: gt, value: 15}
+      - {metric: debt_to_equity, operator: lt, value: 2.0}
+
+  dividend_champion:
+    name: Dividend Champion
+    filters:
+      - {metric: dividend_yield, operator: gt, value: 2}
+      - {metric: dividend_payout, operator: lt, value: 80}
+      - {metric: free_cash_flow, operator: gt, value: 0}
+
+  debt_free_blue_chip:
+    name: Debt-Free Blue Chip
+    filters:
+      # 0.02 accommodates immaterial rounding debt while remaining effectively debt-free.
+      - {metric: debt_to_equity, operator: lte, value: 0.02, financials_exempt: false}
+      - {metric: roe, operator: gt, value: 12}
+      - {metric: sales, operator: gt, value: 5000}
+
+  turnaround_watch:
+    name: Turnaround Watch
+    filters:
+      - {metric: revenue_cagr_3yr, operator: gt, value: 10}
+      - {metric: free_cash_flow, operator: gt, value: 0}
+      - {metric: debt_to_equity, operator: declining, compare_to: previous_debt_to_equity}

@@ -5,7 +5,7 @@ import pandas as pd
 from etl.loader import AuditRow, _reject_orphans, connect_database, create_schema, insert_frame
 
 
-def test_schema_has_ten_tables(tmp_path: Path):
+def test_schema_has_eleven_tables(tmp_path: Path):
     connection = connect_database(tmp_path / "test.db")
     create_schema(connection, Path("db/schema.sql"))
     tables = {
@@ -15,7 +15,8 @@ def test_schema_has_ten_tables(tmp_path: Path):
         )
     }
     connection.close()
-    assert len(tables) == 10
+    assert len(tables) == 11
+    assert "peer_percentiles" in tables
 
 
 def test_foreign_keys_are_enabled(tmp_path: Path):
