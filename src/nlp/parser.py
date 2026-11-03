@@ -73,7 +73,7 @@ class ParserStats:
 
 
 def parse_metric_text(value: object) -> list[tuple[int, float]]:
-    r"""Return every ``(period_years, value_pct)`` match in *value*.
+    """Return every ``(period_years, value_pct)`` match in *value*.
 
     The regex intentionally does not accept a sign because the prescribed Day
     29 pattern uses ``[\d.]+``.  Negative percentages are therefore retained in
