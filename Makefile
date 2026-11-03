@@ -16,7 +16,11 @@ install:
 
 test:
 	mkdir -p reports
-	$(PYTHON) -m pytest -v --cov=nifty100_etl --cov-report=term-missing --html=reports/pytest_report.html --self-contained-html
+	$(PYTHON) -m pytest -v \
+	    --cov=analytics --cov=api --cov=dashboard --cov=etl --cov=nifty100_etl \
+	    --cov=nlp --cov=reports --cov=screener \
+	    --cov-report=term-missing \
+	    --html=reports/pytest_report.html --self-contained-html
 
 lint:
 	$(PYTHON) -m ruff check src tests
@@ -42,7 +46,7 @@ load: db
 review: db
 	$(PYTHON) -m etl.manual_review --database nifty100.db --output output/manual_review.csv --coverage-output output/year_coverage.csv
 
-ratios:
+ratios: db
 	$(PYTHON) -m analytics.populate_ratios --database nifty100.db
 
 screener: ratios

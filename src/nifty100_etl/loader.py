@@ -14,6 +14,39 @@ from .normalize import normalize_ticker, normalize_year
 
 LOGGER = logging.getLogger(__name__)
 
+OPM_PERCENTAGE_MIN = -100.0
+OPM_PERCENTAGE_MAX = 100.0
+
+
+def sanitize_opm_percentage(frame: pd.DataFrame) -> int:
+    """Null out ``opm_percentage`` cells outside the valid percentage range.
+
+    The source profit-and-loss workbook occasionally contains ₹-crore amounts
+    (e.g. operating profit) in the ``opm_percentage`` column — notably for
+    INDIGO rows. Any such row is already flagged by DQ-11, but the ratio
+    cross-check still fires a misleading warning and the dashboard surfaces
+    the corrupt value. Treating out-of-range cross-check references as missing
+    is the correct ETL behaviour: the computed OPM remains the source of
+    truth, and no downstream caller sees a nonsensical "reported" value.
+
+    Returns the number of cells that were nulled.
+    """
+    if "opm_percentage" not in frame.columns:
+        return 0
+    values = pd.to_numeric(frame["opm_percentage"], errors="coerce")
+    out_of_range = values.notna() & ~values.between(OPM_PERCENTAGE_MIN, OPM_PERCENTAGE_MAX)
+    count = int(out_of_range.sum())
+    if count:
+        frame.loc[out_of_range, "opm_percentage"] = None
+        LOGGER.warning(
+            "sanitize_opm_percentage: nulled %d opm_percentage value(s) outside [%s, %s]",
+            count,
+            OPM_PERCENTAGE_MIN,
+            OPM_PERCENTAGE_MAX,
+        )
+    return count
+
+
 SOURCE_TABLES = {
     "companies.xlsx": "companies",
     "documents.xlsx": "documents",
@@ -86,6 +119,8 @@ def load_excel(source: ExcelSource) -> pd.DataFrame:
         frame["id"] = frame["id"].map(normalize_ticker)
     if "year" in frame.columns:
         frame["year"] = frame["year"].map(normalize_year).astype("Int64")
+    if source.statement_type == "profit_and_loss":
+        sanitize_opm_percentage(frame)
     return frame
 
 
