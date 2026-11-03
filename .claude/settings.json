@@ -1,0 +1,58 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make test*)",
+      "Bash(make lint*)",
+      "Bash(make db*)",
+      "Bash(make ratios*)",
+      "Bash(make screener*)",
+      "Bash(make validate*)",
+      "Bash(make inspect*)",
+      "Bash(pytest*)",
+      "Bash(python -m pytest*)",
+      "Bash(ruff*)",
+      "Bash(python -m ruff*)",
+      "Bash(mypy*)",
+      "Bash(python -m mypy*)",
+      "Bash(pip install -r requirements*.txt)",
+      "Bash(pip install -e .*)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(ls *)"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(git push --force*)",
+      "Bash(git reset --hard*)",
+      "Bash(curl * | sh*)",
+      "Bash(wget * | sh*)",
+      "WebFetch(url:*secrets*)",
+      "WebFetch(url:*credentials*)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "description": "Preflight guardrail: refuse commands touching .env, secrets, keys, nifty100.db destructive ops, or force-pushes before they run.",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -c \"import json,re,sys;d=json.load(sys.stdin);c=d.get('tool_input',{}).get('command','');p=r'(?:(?<=\\s)|^)(?:cat|less|more|head|tail)\\s+\\S*\\.env(?:\\s|$)|secrets\\.json|credentials\\.json|service-account[^\\s]*\\.json|(?:^|\\s)rm\\s+-rf\\s+/|git push --force|git reset --hard|DROP TABLE';sys.exit(2 if re.search(p,c) else 0)\""
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit",
+        "description": "Refuse to write obvious secret-shaped files from the agent.",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -c \"import json,re,sys;d=json.load(sys.stdin);p=d.get('tool_input',{}).get('file_path','');sys.exit(2 if re.search(r'\\.pem$|\\.key$|secrets\\.json$|credentials\\.json$|service-account[^/]*\\.json$|(?:^|/)\\.env$',p) else 0)\""
+          }
+        ]
+      }
+    ]
+  }
+}
