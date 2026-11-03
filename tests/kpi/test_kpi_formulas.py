@@ -3,13 +3,13 @@
 import pytest
 
 from analytics.cagr import CAGRFlag, calculate_cagr, calculate_cagr_windows
-from analytics.cashflow import classify_capital_allocation
 from analytics.cashflow_kpis import (
     capex_intensity,
     cfo_quality_score,
     fcf_conversion_rate,
     free_cash_flow,
 )
+from analytics.cashflow import classify_capital_allocation
 from analytics.ratios import (
     asset_turnover,
     debt_to_equity,
