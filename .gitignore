@@ -8,6 +8,16 @@ __pycache__/
 htmlcov/
 *.db
 .env
+.env.*
+!.env.example
+
+# Secrets / credentials — never commit
+*.pem
+*.key
+secrets.json
+credentials.json
+service-account*.json
+
 .DS_Store
 build/
 dist/
